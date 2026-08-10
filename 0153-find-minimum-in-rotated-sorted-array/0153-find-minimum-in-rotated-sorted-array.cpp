@@ -8,7 +8,7 @@ public:
 
         while (low <= high) {
 
-            // Current range is already sorted
+            
             if (nums[low] <= nums[high]) {
                 ans = min(ans, nums[low]);
                 break;

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/axitya-sharmx/DSA-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/axitya-sharmx/DSA-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/axitya-sharmx/DSA-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/axitya-sharmx/DSA-/tree/master/0035-search-insert-position) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/axitya-sharmx/DSA-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/axitya-sharmx/DSA-/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/axitya-sharmx/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/axitya-sharmx/DSA-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |

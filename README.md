@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/axitya-sharmx/DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/axitya-sharmx/DSA-/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/axitya-sharmx/DSA-/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/axitya-sharmx/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/axitya-sharmx/DSA-/tree/master/0118-pascals-triangle) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/axitya-sharmx/DSA-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/axitya-sharmx/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/axitya-sharmx/DSA-/tree/master/0162-find-peak-element) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/axitya-sharmx/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/axitya-sharmx/DSA-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

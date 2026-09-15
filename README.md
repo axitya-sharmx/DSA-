@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/axitya-sharmx/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/axitya-sharmx/DSA-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/axitya-sharmx/DSA-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/axitya-sharmx/DSA-/tree/master/1903-largest-odd-number-in-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/axitya-sharmx/DSA-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/axitya-sharmx/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/axitya-sharmx/DSA-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/axitya-sharmx/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/axitya-sharmx/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/axitya-sharmx/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/axitya-sharmx/DSA-/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/axitya-sharmx/DSA-/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/axitya-sharmx/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -184,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/axitya-sharmx/DSA-/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/axitya-sharmx/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/axitya-sharmx/DSA-/tree/master/0151-reverse-words-in-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/axitya-sharmx/DSA-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/axitya-sharmx/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/axitya-sharmx/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/axitya-sharmx/DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/axitya-sharmx/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/axitya-sharmx/DSA-/tree/master/3876-construct-uniform-parity-array-ii) |

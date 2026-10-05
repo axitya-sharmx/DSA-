@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/axitya-sharmx/DSA-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/axitya-sharmx/DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/axitya-sharmx/DSA-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/axitya-sharmx/DSA-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/axitya-sharmx/DSA-/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/axitya-sharmx/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/axitya-sharmx/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/axitya-sharmx/DSA-/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/axitya-sharmx/DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/axitya-sharmx/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/axitya-sharmx/DSA-/tree/master/3875-construct-uniform-parity-array-i) |

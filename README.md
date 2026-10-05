@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/axitya-sharmx/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/axitya-sharmx/DSA-/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/axitya-sharmx/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/axitya-sharmx/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

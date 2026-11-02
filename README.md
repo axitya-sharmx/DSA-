@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/axitya-sharmx/DSA-/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/axitya-sharmx/DSA-/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/axitya-sharmx/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/axitya-sharmx/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/axitya-sharmx/DSA-/tree/master/0704-binary-search) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/axitya-sharmx/DSA-/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/axitya-sharmx/DSA-/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/axitya-sharmx/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/axitya-sharmx/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/axitya-sharmx/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/axitya-sharmx/DSA-/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/axitya-sharmx/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/axitya-sharmx/DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/axitya-sharmx/DSA-/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/axitya-sharmx/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

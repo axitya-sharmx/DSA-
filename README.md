@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/axitya-sharmx/DSA-/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/axitya-sharmx/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/axitya-sharmx/DSA-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/axitya-sharmx/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/axitya-sharmx/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/axitya-sharmx/DSA-/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/axitya-sharmx/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/axitya-sharmx/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/axitya-sharmx/DSA-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/axitya-sharmx/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/axitya-sharmx/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/axitya-sharmx/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/axitya-sharmx/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/axitya-sharmx/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/axitya-sharmx/DSA-/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/axitya-sharmx/DSA-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/axitya-sharmx/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/axitya-sharmx/DSA-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/axitya-sharmx/DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/axitya-sharmx/DSA-/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/axitya-sharmx/DSA-/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/axitya-sharmx/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/axitya-sharmx/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/axitya-sharmx/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/axitya-sharmx/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/axitya-sharmx/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/axitya-sharmx/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/axitya-sharmx/DSA-/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/axitya-sharmx/DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/axitya-sharmx/DSA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/axitya-sharmx/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/axitya-sharmx/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/axitya-sharmx/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/axitya-sharmx/DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/axitya-sharmx/DSA-/tree/master/1922-count-good-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/axitya-sharmx/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/axitya-sharmx/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/axitya-sharmx/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/axitya-sharmx/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/axitya-sharmx/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/axitya-sharmx/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/axitya-sharmx/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/axitya-sharmx/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/axitya-sharmx/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
